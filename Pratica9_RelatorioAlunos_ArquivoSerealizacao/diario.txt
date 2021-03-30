@@ -1,0 +1,7 @@
+201520035; Anderson T. Leal; 75.6; Aprovado
+201410953; Falano da Silva; 60; Aprovado
+201710326; Jose das Couves; 45.9; Reprovado
+201810097; D. Pedro II; 35.7; Reprovado
+201521003; Felicidade do Amor Divino; 66.7; Aprovado
+201610542; Tristeza do Jeca; 37.48; Reprovado
+201420326; Maria das Dores; 72.3; Aprovado
