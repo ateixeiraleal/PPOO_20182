@@ -1,3 +1,5 @@
+package PPOO_20182.Pratica7_ReajusteSalario_Colecoes;
+
 public class FuncionarioComissionado extends Funcionario {
     private int totalVendas;
     private double taxaComissao;

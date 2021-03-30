@@ -1,3 +1,5 @@
+package PPOO_20182.Pratica7_ReajusteSalario_Colecoes;
+
 public abstract class Funcionario implements Comparable<Funcionario> {
     private String nome;
     private String cpf;

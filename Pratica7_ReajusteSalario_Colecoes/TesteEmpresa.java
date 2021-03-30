@@ -1,3 +1,5 @@
+package PPOO_20182.Pratica7_ReajusteSalario_Colecoes;
+
 public class TesteEmpresa {
  public static void main(String[] args) {
  Empresa empresa = new Empresa("EmpresaX","123456789/1000");

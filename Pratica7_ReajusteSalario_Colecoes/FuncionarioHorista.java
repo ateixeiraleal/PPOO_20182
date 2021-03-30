@@ -1,3 +1,5 @@
+package PPOO_20182.Pratica7_ReajusteSalario_Colecoes;
+
 public class FuncionarioHorista extends Funcionario{
     private double salario;
     private double horasTrabalahadas;

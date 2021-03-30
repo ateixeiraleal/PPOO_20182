@@ -1,3 +1,5 @@
+package PPOO_20182.Pratica7_ReajusteSalario_Colecoes;
+
 import java.util.*;
 public class Empresa {
     private String nome;
